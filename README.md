@@ -18,4 +18,4 @@ rootView.setFitsSystemWindows(true);是设置是否考虑标题栏进去，如�
 
 设置为true后，就正常了。
 
-![](http://i.imgur.com/0kO0ozH.png)
+![](http://i.imgur.com/aDXM52s.png)
